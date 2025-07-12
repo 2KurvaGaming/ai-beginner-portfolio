@@ -6,7 +6,7 @@ Even if I don't know much yet — I'm learning fast, and I'm excited to grow.
 ## What's in this repo?
 - 📝 Notes from my AI learning path
 - 🧪 Small AI experiments and projects
-- 🐧 Linux tips for AI/ML
+- 🐧 Linux tips for AI/ML/DL/DS AUTOMATION
 - 📬 How to reach me (see contact.md)
 
 ## First Project: Hello AI
