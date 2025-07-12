@@ -3,8 +3,8 @@
 I'm Bri — a beginner in AI and tech, and I'd love to hear from fellow learners and mentors.
 
 📫 You can reach me at:
-- **Email**: [katerpyllerbot@gmail.com] 
-- **Discord**: [KaterpyllerBot] (Coming Soon)
-- **TikTok**: [katerpyllerbot] (Coming Soon)
+- **Email**: [2kurvagaming@gmail.com] [katerpyllerbot@gmail.com] 
+- **Discord**: [2kurvagaming] [KaterpyllerBot (Coming Soon) ]
+- **TikTok**: [2kurvagaming] [KaterpyllerBot (Coming Soon) ]
 
 Or just leave a comment on GitHub! I'm always happy to chat. Looking forward to learning and growing 🌱 together. 
