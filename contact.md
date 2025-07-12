@@ -1,6 +1,6 @@
 # Let's Connect!📬 
 
-I'm Bri — a beginner in AI and tech, and I'd love to hear from fellow learners and mentors.
+🤖I'm Bri — a beginner in AI. I'd love to hear from fellow learners and mentors.
 
 📫 You can reach me at:
 - **Email**: [2kurvagaming@gmail.com] [katerpyllerbot@gmail.com] 
